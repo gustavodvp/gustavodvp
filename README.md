@@ -6,7 +6,7 @@
 <BR>
   
   
-### How to Reach me ### 
+## How to Reach me
 <br>
 <p align="center">
 	<a href="https://github.com/gustavodvp"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
@@ -16,7 +16,7 @@
 </p>
 <br />
 
-### About Me ###
+## About Me
 <br>
 <p align="center">
 🌱 I’m a Full stack developer on the making with a bachelor's degree in Information systems. </br>
@@ -26,7 +26,7 @@
 
 ![Gustavo's github stats](https://github-readme-stats.vercel.app/api?username=gustavodvp&show_icons=true&hide_border=true)&nbsp;&nbsp;
 
-### Techs ###
+## Techs
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=C#&logoColor=FFA518)&nbsp;
