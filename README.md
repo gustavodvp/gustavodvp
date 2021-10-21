@@ -5,6 +5,13 @@
 </p>
 <BR>
   
+## About Me
+<br>
+<p align="center">
+🌱 I’m a Full stack developer on the making with a bachelor's degree in Information systems. </br>
+👨‍💻  I'm currently learning about Flutter, Springboot and Restful Api's. </br>
+</p>
+<br />	
   
 ## How to Reach me
 <br>
@@ -13,14 +20,6 @@
 	<a href="https://www.linkedin.com/in/gustavodzn/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://www.facebook.com/gustavodzn/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
 	<a href="https://twitter.com/gustavodvp"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
-</p>
-<br />
-
-## About Me
-<br>
-<p align="center">
-🌱 I’m a Full stack developer on the making with a bachelor's degree in Information systems. </br>
-👨‍💻  I'm currently learning about Flutter, Springboot and Restful Api's. </br>
 </p>
 <br />
 
