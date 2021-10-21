@@ -5,25 +5,24 @@
 </p>
 <BR>
   
-<a href="https://www.linkedin.com/in/gustavodzn/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://twitter.com/gustavodvp">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:gustavodzn@live.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+  
+### How to Reach me ### 
+<p align="center">
+	<a href="https://github.com/gustavodvp"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/gustavodzn/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://www.facebook.com/gustavodzn/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
+	<a href="https://twitter.com/gustavodvp"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
+</p>
 <br />
 
-### About Me 🚀
+### About Me ###
 🌱 I’m a Full stack developer on the making with a bachelor's degree in Information systems. </br>
 👨‍💻  I'm currently learning about Flutter, Springboot and Restful Api's. </br>
 
 ![Gustavo's github stats](https://github-readme-stats.vercel.app/api?username=gustavodvp&show_icons=true&hide_border=true)&nbsp;&nbsp;
 <br />
 
-### Techs 🚀
+### Techs ###
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=C#&logoColor=FFA518)&nbsp;
