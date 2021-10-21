@@ -23,8 +23,6 @@
 </p>
 <br />
 
-![Gustavo's github stats](https://github-readme-stats.vercel.app/api?username=gustavodvp&show_icons=true&hide_border=true)&nbsp;&nbsp;
-
 ## Techs
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -44,7 +42,7 @@
 ## GitHub Stats
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Gustavodvp&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gustavodvp.gustavodvp)
 
