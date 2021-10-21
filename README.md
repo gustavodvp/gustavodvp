@@ -1,5 +1,10 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Gustavo Araujo!](https://www.linkedin.com/in/gustavodzn/) 
 
+<p align="center">
+<img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
+</p>
+<BR>
+  
 <a href="https://www.linkedin.com/in/gustavodzn/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
