@@ -1,7 +1,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Gustavo Araujo!](https://www.linkedin.com/in/gustavodzn/) 
 
 <p align="center">
-<img width="70%" src="https://cdn.acodez.in/wp-content/uploads/2018/05/Banner-image-4.png"/>
+<img width="90%" src="https://cdn.acodez.in/wp-content/uploads/2018/05/Banner-image-4.png"/>
 </p>
 <BR>
   
