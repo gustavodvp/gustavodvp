@@ -21,9 +21,10 @@
 <p align="center">
 🌱 I’m a Full stack developer on the making with a bachelor's degree in Information systems. </br>
 👨‍💻  I'm currently learning about Flutter, Springboot and Restful Api's. </br>
-![Gustavo's github stats](https://github-readme-stats.vercel.app/api?username=gustavodvp&show_icons=true&hide_border=true)&nbsp;&nbsp;
 </p>
 <br />
+
+![Gustavo's github stats](https://github-readme-stats.vercel.app/api?username=gustavodvp&show_icons=true&hide_border=true)&nbsp;&nbsp;
 
 ### Techs ###
 
