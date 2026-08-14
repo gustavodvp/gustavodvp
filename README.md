@@ -9,7 +9,7 @@
   <a href="https://github.com/gustavodvp">
     <img src="https://komarev.com/ghpvc/?username=gustavodvp&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
   </a>
-  <a href="https://github.com/gustavodvp?tab=followers">
+  <a href="https://img.shields.io/github/followers/gustavodvp?style=for-the-badge">
     <img src="https://img.shields.io/github/followers/gustavodvp?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
   </a>
   <a href="https://www.linkedin.com/in/gustavodzn/">
@@ -66,47 +66,22 @@
 
 ## 📦 Featured Work
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/gustavodvp/app-golang-atlas">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavodvp&repo=app-golang-atlas&theme=tokyonight&hide_border=true" alt="app-golang-atlas" />
-      </a>
-      <br/>
-      <sub><b>app-golang-atlas</b> · Go backend</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/gustavodvp/pandora-ai-gateway">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavodvp&repo=pandora-ai-gateway&theme=tokyonight&hide_border=true" alt="pandora-ai-gateway" />
-      </a>
-      <br/>
-      <sub><b>pandora-ai-gateway</b> · Local-first LLM router</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/gustavodvp/app-frontend-atlas">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavodvp&repo=app-frontend-atlas&theme=tokyonight&hide_border=true" alt="app-frontend-atlas" />
-      </a>
-      <br/>
-      <sub><b>app-frontend-atlas</b> · TypeScript frontend</sub>
-    </td>
-  </tr>
-</table>
+| <div align="center">[**app-golang-atlas**](https://github.com/gustavodvp/app-golang-atlas)</div> | <div align="center">[**pandora-ai-gateway**](https://github.com/gustavodvp/pandora-ai-gateway)</div> | <div align="center">[**app-frontend-atlas**](https://github.com/gustavodvp/app-frontend-atlas)</div> |
+|:---:|:---:|:---:|
+| <div align="center"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /><br/><img src="https://img.shields.io/github/stars/gustavodvp/app-golang-atlas?style=for-the-badge" /><br/><img src="https://img.shields.io/github/languages/top/gustavodvp/app-golang-atlas?style=for-the-badge" /><br/><img src="https://img.shields.io/github/last-commit/gustavodvp/app-golang-atlas?style=for-the-badge" /><br/>Backend services for loan & operations control</div> | <div align="center"><img src="https://img.shields.io/badge/LLM-8B5CF6?style=for-the-badge&logo=ai&logoColor=white" /><br/><img src="https://img.shields.io/github/stars/gustavodvp/pandora-ai-gateway?style=for-the-badge" /><br/><img src="https://img.shields.io/github/languages/top/gustavodvp/pandora-ai-gateway?style=for-the-badge" /><br/><img src="https://img.shields.io/github/last-commit/gustavodvp/pandora-ai-gateway?style=for-the-badge" /><br/>Local-first LLM router/orchestrator for the homelab</div> | <div align="center"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><br/><img src="https://img.shields.io/github/stars/gustavodvp/app-frontend-atlas?style=for-the-badge" /><br/><img src="https://img.shields.io/github/languages/top/gustavodvp/app-frontend-atlas?style=for-the-badge" /><br/><img src="https://img.shields.io/github/last-commit/gustavodvp/app-frontend-atlas?style=for-the-badge" /><br/>TypeScript frontend for the Atlas ecosystem</div> |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavodvp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="gustavodvp stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodvp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+  <img src="https://img.shields.io/github/stars/gustavodvp?style=for-the-badge&label=Total%20Stars" />
+  <img src="https://img.shields.io/github/followers/gustavodvp?style=for-the-badge&label=Followers" />
+  <img src="https://img.shields.io/github/commits-since/gustavodvp/gustavodvp/main?style=for-the-badge" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavodvp&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gustavodvp&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=10" alt="trophies" />
 </p>
 
 ---
